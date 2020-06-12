@@ -1,0 +1,14 @@
+{
+  "delete_success": {
+    "params": "1266698334094045184",
+    "status": 200,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "failure_error_depid": {
+    "params": "12714041597483540482222",
+    "status": 200,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  }
+}

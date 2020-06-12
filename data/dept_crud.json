@@ -1,0 +1,15 @@
+{
+  "add_success": {
+    "request_body": {
+      "name": "day0612部门crud增加的name",
+      "code": "112233445566"
+    },
+    "status": 200,
+    "code": 10000,
+    "message": "操作成功！",
+    "update_request_body": {
+      "name": "crud修改后的name",
+      "code": "112233445566"
+    }
+  }
+}

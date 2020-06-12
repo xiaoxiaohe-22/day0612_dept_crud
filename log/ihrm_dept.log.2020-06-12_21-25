@@ -1,0 +1,5 @@
+2020-06-12 21:25:32,715 INFO [root] [dept_crud.py(test_dept_crud:32)] - 增加部门后返回的部门id为:1271433562326904832
+2020-06-12 21:25:32,728 INFO [root] [dept_crud.py(test_dept_crud:33)] - 增加部门后返回的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271433562326904832'}}
+2020-06-12 21:25:33,022 INFO [root] [dept_crud.py(test_dept_crud:39)] - 修改部门后返回的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271433562326904832', 'pid': None, 'companyId': '1', 'name': 'day0612部门crud增加的name', 'code': '112233445566', 'managerId': None, 'manager': None, 'introduce': None, 'createTime': None}}
+2020-06-12 21:25:33,104 INFO [root] [dept_crud.py(test_dept_crud:45)] - 修改部门后返回的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 21:25:33,205 INFO [root] [dept_crud.py(test_dept_crud:51)] - 删除部门后返回的结果为:{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}

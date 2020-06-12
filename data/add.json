@@ -1,0 +1,17 @@
+{
+  "add_success": {
+    "request_body": {
+      "name": "day0612我添加的部门222",
+      "code": "5555566666"
+    },
+    "status": 200,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "null_add_failure": {
+    "request_body": null,
+    "status": 200,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  }
+}
